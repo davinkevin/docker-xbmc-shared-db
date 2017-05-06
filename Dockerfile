@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie-slim
 
 MAINTAINER DAVIN Kevin <davin.kevin@gmail.com>
 
